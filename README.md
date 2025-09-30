@@ -12,6 +12,10 @@
 
 - 正在苦肝论文ing✍️
 
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Megalomanian&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+  ![Top![Streak](https://streak-stats.demolab.com?user=Megalomanian&theme=default&hide_border=true)Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megalomanian&layout=donut&langs_count=10&hide=CMake&theme=default&hide_border=true)  
+
 # 💻Project Experience
 
 - 高中：人脸识别智能门禁系统
