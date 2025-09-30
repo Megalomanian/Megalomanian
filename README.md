@@ -10,8 +10,6 @@
 
 - 钻研深度学习🤖
 
-- 全国大学生人工智能安全赛国一🏆
-
 - 正在苦肝论文ing✍️
 
 # 💻Project Experience
@@ -24,11 +22,27 @@
 
 - 正在肝：[宁夏大学生存手册](http://nxu-guide.github.io)
 
-# Internship Experience
+# 💼Internship Experience
 
 - 上海大模型生态发展有限公司（模速空间） 数字运营部产品经理
 
-# 
+# 🏆Awards & Honors
+
+- 2024年“蓝桥杯”宁夏大学（校赛）二等奖
+
+- 2024年黄河“几字弯”网络安全大会暨“安跃杯”网络安全大赛三等奖
+
+- 2024年“春秋杯”网络安全联赛冬季赛“AI方向网络安全实战单方向金手指”荣誉称号
+
+- 2024年“春秋杯”⽹络安全联赛冬季赛 “⽹络安全实战先锋”荣誉称号
+
+- 2025年软件系统安全赛陕西赛区二等奖
+
+- 第二届“长城杯”陕西赛区三等奖
+
+- 第十五届“正大杯”市调大赛省赛二等奖
+
+- 全国大学生人工智能安全赛国一
 <!--
 **Megalomanian/Megalomanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
