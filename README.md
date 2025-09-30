@@ -22,7 +22,7 @@
 
 - 大二上：基于BERT模型的满意度量化系统
 
-- 正在肝：[宁夏大学生存手册](nxu-guide.github.io)
+- 正在肝：[宁夏大学生存手册](http://nxu-guide.github.io)
 
 # Internship Experience
 
