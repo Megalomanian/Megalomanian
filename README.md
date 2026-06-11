@@ -174,6 +174,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Megalomanian&style=flat-square&color=blue)](https://github.com/Megalomanian)
 
-*「凌晨三点，你还在搞安全吗？」*
+*「早上好，你也要上早八吗？」*
 
 </div>
